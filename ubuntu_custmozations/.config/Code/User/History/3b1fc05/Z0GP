@@ -1,0 +1,2 @@
+PRIVATE_KEY = 'e52a6c96c33e82034220d8c289f8815c8d3e97c92f7c46f663354ba03c771040'
+KOVAN_RPC_URL = 'https://speedy-nodes-nyc.moralis.io/c9487b1dbd1a78d99fab5a2b/eth/kovan'

@@ -1,0 +1,38 @@
+[2022-05-13 01:29:58.952] [sharedprocess] [info] Starting worker process with pid 16337 (type: fileWatcher, window: 1).
+[2022-05-13 03:29:47.105] [sharedprocess] [info] Worker process with pid 16337 terminated normally (type: fileWatcher, window: 1).
+[2022-05-13 03:29:47.853] [sharedprocess] [info] Starting worker process with pid 19850 (type: fileWatcher, window: 1).
+[2022-05-13 03:30:27.655] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-05-13 03:30:27.659] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-05-13 03:30:28.285] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-05-13 03:30:29.662] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-05-13 03:30:30.705] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-05-13 03:30:31.748] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-13 03:30:32.095] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-05-13 03:30:32.095] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-05-13 03:30:32.095] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-05-13 03:30:32.095] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-13 03:30:33.797] [sharedprocess] [info] Downloaded extension: ms-python.python /home/ubuntu/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.6.2
+[2022-05-13 03:30:33.962] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/ubuntu/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-05-13 03:30:33.979] [sharedprocess] [info] Extracted extension to /home/ubuntu/.vscode/extensions/.18472329-56c6-4315-b9ab-bb028e15a02f: ms-toolsai.jupyter-keymap
+[2022-05-13 03:30:33.983] [sharedprocess] [info] Renamed to /home/ubuntu/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-05-13 03:30:33.985] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-05-13 03:30:34.968] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/ubuntu/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.6
+[2022-05-13 03:30:35.190] [sharedprocess] [info] Extracted extension to /home/ubuntu/.vscode/extensions/.b9450824-7c42-4edf-8ffe-bdb1fe242175: ms-toolsai.jupyter-renderers
+[2022-05-13 03:30:35.203] [sharedprocess] [info] Renamed to /home/ubuntu/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.6
+[2022-05-13 03:30:35.204] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-05-13 03:30:36.168] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.4.1011282140
+[2022-05-13 03:30:36.460] [sharedprocess] [info] Extracted extension to /home/ubuntu/.vscode/extensions/.994ffa8a-dcd3-4db0-a843-4bc0f38a10b6: ms-python.python
+[2022-05-13 03:30:36.464] [sharedprocess] [info] Renamed to /home/ubuntu/.vscode/extensions/ms-python.python-2022.6.2
+[2022-05-13 03:30:36.470] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-05-13 03:30:36.880] [sharedprocess] [info] Extracted extension to /home/ubuntu/.vscode/extensions/.d40bb774-dfb7-45c4-a13b-2e19b0b430fa: ms-toolsai.jupyter
+[2022-05-13 03:30:36.884] [sharedprocess] [info] Renamed to /home/ubuntu/.vscode/extensions/ms-toolsai.jupyter-2022.4.1011282140
+[2022-05-13 03:30:36.892] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-05-13 03:30:41.279] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/ubuntu/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.5.1
+[2022-05-13 03:30:45.125] [sharedprocess] [info] Extracted extension to /home/ubuntu/.vscode/extensions/.64d05c79-24c0-4003-b4c2-920e00538047: ms-python.vscode-pylance
+[2022-05-13 03:30:45.152] [sharedprocess] [info] Renamed to /home/ubuntu/.vscode/extensions/ms-python.vscode-pylance-2022.5.1
+[2022-05-13 03:30:45.154] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-05-13 03:30:45.157] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-05-13 03:30:45.157] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-05-13 03:30:45.157] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-05-13 03:30:45.157] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-05-13 03:30:45.157] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

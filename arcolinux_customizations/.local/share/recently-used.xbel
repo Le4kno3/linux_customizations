@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/jlelo/.config/qtile" added="2021-09-18T12:52:54.640378Z" modified="2021-09-18T22:19:11.134752Z" visited="2021-09-18T12:52:54.640378Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-18T22:19:11.134749Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/linux-customizations/.config/qtile" added="2021-09-18T12:55:16.482010Z" modified="2021-09-18T12:58:18.368940Z" visited="2021-09-18T12:55:16.482011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-18T12:58:18.368937Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/config-20210918T133631Z-001.zip" added="2021-09-18T13:39:50.451451Z" modified="2021-09-20T14:04:17.752129Z" visited="2021-09-18T13:39:50.451452Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-18T13:39:50.451453Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-09-20T14:04:17.752127Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/.config/qtile/config.py" added="2021-09-18T13:43:13.120769Z" modified="2021-09-18T13:43:13.120773Z" visited="2021-09-18T13:43:13.120769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-18T13:43:13.120771Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config/qtile/config.py.backup" added="2021-09-18T14:11:23.538074Z" modified="2021-09-18T14:11:23.538078Z" visited="2021-09-18T14:11:23.538075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-18T14:11:23.538077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/dotfiles-master-.config-rofi.zip" added="2021-09-18T16:16:16.646799Z" modified="2021-09-18T19:28:42.494708Z" visited="2021-09-18T16:16:16.646801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-18T16:16:16.646803Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-09-18T19:28:42.494706Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config/qtile/sxhkd/sxhkdrc.backup" added="2021-09-18T16:48:37.552187Z" modified="2021-09-18T16:48:37.552191Z" visited="2021-09-18T16:48:37.552187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-18T16:48:37.552189Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.local/share/rofi/themes" added="2021-09-18T17:25:51.147703Z" modified="2021-09-18T17:34:03.305113Z" visited="2021-09-18T17:25:51.147704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-18T17:31:04.569075Z" count="2"/>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-09-18T17:34:03.305111Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config/rofi/themes/dt-center.rasi" added="2021-09-18T17:48:02.290524Z" modified="2021-09-20T13:37:42.675676Z" visited="2021-09-18T17:48:02.290524Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-09-20T13:37:42.675675Z" count="5"/>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-18T20:42:05.977069Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config/rofi/themes/dt-dmenu.rasi" added="2021-09-18T17:48:02.290535Z" modified="2021-09-20T13:37:42.675666Z" visited="2021-09-18T17:48:02.290535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-09-20T13:37:42.675664Z" count="4"/>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-18T20:42:05.977080Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/dotfiles-master-.config-rofi/.config/rofi/themes/dt-center.rasi" added="2021-09-18T18:53:06.589358Z" modified="2021-09-18T18:53:06.589362Z" visited="2021-09-18T18:53:06.589359Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-09-18T18:53:06.589360Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/rofi/themes/android_notification.rasi" added="2021-09-18T19:10:18.381332Z" modified="2021-09-18T19:10:18.381336Z" visited="2021-09-18T19:10:18.381333Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-18T19:10:18.381334Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config/rofi/themes/purple.rasi" added="2021-09-18T19:35:14.696485Z" modified="2021-09-18T19:35:14.696488Z" visited="2021-09-18T19:35:14.696485Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-09-18T19:35:14.696486Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release.zip" added="2021-09-18T22:05:31.178171Z" modified="2021-09-18T22:05:36.559533Z" visited="2021-09-18T22:05:31.178173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-18T22:05:31.178179Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-09-18T22:05:36.559531Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-Black.ttf" added="2021-09-18T22:06:07.779728Z" modified="2021-09-18T22:06:07.779735Z" visited="2021-09-18T22:06:07.779729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779732Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-Bold.ttf" added="2021-09-18T22:06:07.779749Z" modified="2021-09-18T22:06:07.779751Z" visited="2021-09-18T22:06:07.779749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779749Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-BoldIt.ttf" added="2021-09-18T22:06:07.779756Z" modified="2021-09-18T22:06:07.779758Z" visited="2021-09-18T22:06:07.779756Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779757Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-ExtraLight.ttf" added="2021-09-18T22:06:07.779763Z" modified="2021-09-18T22:06:07.779765Z" visited="2021-09-18T22:06:07.779763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779764Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-BlackIt.ttf" added="2021-09-18T22:06:07.779769Z" modified="2021-09-18T22:06:07.779771Z" visited="2021-09-18T22:06:07.779769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779770Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-ExtraLightIt.ttf" added="2021-09-18T22:06:07.779776Z" modified="2021-09-18T22:06:07.779778Z" visited="2021-09-18T22:06:07.779776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779777Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-It.ttf" added="2021-09-18T22:06:07.779783Z" modified="2021-09-18T22:06:07.779784Z" visited="2021-09-18T22:06:07.779783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779784Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-Light.ttf" added="2021-09-18T22:06:07.779788Z" modified="2021-09-18T22:06:07.779790Z" visited="2021-09-18T22:06:07.779789Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779789Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-LightIt.ttf" added="2021-09-18T22:06:07.779794Z" modified="2021-09-18T22:06:07.779796Z" visited="2021-09-18T22:06:07.779794Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779795Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-Medium.ttf" added="2021-09-18T22:06:07.779800Z" modified="2021-09-18T22:06:07.779802Z" visited="2021-09-18T22:06:07.779800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-MediumIt.ttf" added="2021-09-18T22:06:07.779807Z" modified="2021-09-18T22:06:07.779808Z" visited="2021-09-18T22:06:07.779807Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779807Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-Semibold.ttf" added="2021-09-18T22:06:07.779812Z" modified="2021-09-18T22:06:07.779814Z" visited="2021-09-18T22:06:07.779812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779813Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-Regular.ttf" added="2021-09-18T22:06:07.779817Z" modified="2021-09-18T22:06:07.779819Z" visited="2021-09-18T22:06:07.779818Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779818Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/source-code-pro-release/TTF/SourceCodePro-SemiboldIt.ttf" added="2021-09-18T22:06:07.779823Z" modified="2021-09-18T22:06:07.779825Z" visited="2021-09-18T22:06:07.779823Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:06:07.779824Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/Sauce%20Code%20Pro%20Bold%20Nerd%20Font%20Complete%20Mono.zip" added="2021-09-18T22:08:41.707255Z" modified="2021-09-18T22:08:42.693376Z" visited="2021-09-18T22:08:41.707256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-18T22:08:41.707257Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-09-18T22:08:42.693374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads" added="2021-09-18T22:08:49.838781Z" modified="2021-09-18T22:08:49.838785Z" visited="2021-09-18T22:08:49.838782Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-09-18T22:08:49.838783Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/Sauce%20Code%20Pro%20Bold%20Nerd%20Font%20Complete%20Mono.ttf" added="2021-09-18T22:09:00.189564Z" modified="2021-09-18T22:09:00.189569Z" visited="2021-09-18T22:09:00.189565Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-18T22:09:00.189566Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config" added="2021-09-18T22:19:26.240546Z" modified="2021-09-18T22:19:26.240554Z" visited="2021-09-18T22:19:26.240548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-18T22:19:26.240550Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config/qtile/config.py" added="2021-09-20T13:42:28.761977Z" modified="2021-09-27T08:18:11.399748Z" visited="2021-09-20T13:42:28.761978Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-09-20T16:35:02.997437Z" count="2"/>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-27T08:18:11.399746Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/dotfiles-master-.config.zip" added="2021-09-20T14:05:24.295458Z" modified="2021-09-20T14:05:37.269508Z" visited="2021-09-20T14:05:24.295461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-20T14:05:24.295463Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-09-20T14:05:37.269505Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config/qtile/sxhkd/sxhkdrc" added="2021-09-20T14:39:21.011142Z" modified="2021-09-22T10:05:51.376274Z" visited="2021-09-20T14:39:21.011143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-22T10:05:51.376272Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/qtile_complete_backup.zip" added="2021-09-20T16:40:39.830934Z" modified="2021-09-20T16:40:39.830950Z" visited="2021-09-20T16:40:39.830936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-09-20T16:40:39.830942Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/config%20files.zip" added="2021-09-21T18:23:00.808608Z" modified="2021-09-21T22:14:49.682311Z" visited="2021-09-21T18:23:00.808610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-21T18:23:00.808613Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-09-21T22:14:49.682309Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config/powerline/colorchemes/default.json" added="2021-09-21T18:54:40.023530Z" modified="2021-09-21T18:54:40.023535Z" visited="2021-09-21T18:54:40.023531Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-21T18:54:40.023533Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config/powerline/themes/shell/default.json" added="2021-09-21T18:54:47.935730Z" modified="2021-09-21T18:54:47.935734Z" visited="2021-09-21T18:54:47.935730Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-21T18:54:47.935732Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.bashrc" added="2021-09-21T19:05:32.452185Z" modified="2021-09-21T20:51:42.097308Z" visited="2021-09-21T19:05:32.452187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-21T20:51:42.097305Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.zshrc" added="2021-09-21T19:07:29.781096Z" modified="2021-10-03T22:07:49.564057Z" visited="2021-09-21T19:07:29.781096Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-10-03T22:07:49.564055Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.config/alacritty/alacritty.yml" added="2021-09-21T19:57:06.807297Z" modified="2021-09-21T19:57:06.807301Z" visited="2021-09-21T19:57:06.807298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-21T19:57:06.807300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.zshrc.backup" added="2021-09-21T20:01:07.397353Z" modified="2021-09-21T20:01:07.397359Z" visited="2021-09-21T20:01:07.397354Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-21T20:01:07.397356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/fontawesome-free-5.15.4-desktop.zip" added="2021-09-21T20:28:48.575995Z" modified="2021-09-21T20:28:55.077786Z" visited="2021-09-21T20:28:48.575996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-21T20:28:48.575997Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-09-21T20:28:55.077784Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/fontawesome-free-5.15.4-desktop/otfs/Font%20Awesome%205%20Brands-Regular-400.otf" added="2021-09-21T20:32:55.911454Z" modified="2021-09-21T20:32:55.911459Z" visited="2021-09-21T20:32:55.911454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.formula-template"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-21T20:32:55.911456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/fontawesome-free-5.15.4-desktop/otfs/Font%20Awesome%205%20Free-Solid-900.otf" added="2021-09-21T20:32:55.911468Z" modified="2021-09-21T20:32:55.911470Z" visited="2021-09-21T20:32:55.911468Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.formula-template"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-21T20:32:55.911469Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/fontawesome-free-5.15.4-desktop/otfs/Font%20Awesome%205%20Free-Regular-400.otf" added="2021-09-21T20:32:55.911476Z" modified="2021-09-21T20:32:55.911478Z" visited="2021-09-21T20:32:55.911476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.formula-template"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2021-09-21T20:32:55.911476Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/.tmux.conf" added="2021-09-21T22:17:14.964681Z" modified="2021-09-22T09:36:05.175043Z" visited="2021-09-21T22:17:14.964681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-09-21T22:17:14.964682Z" count="1"/>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2021-09-22T09:36:05.175041Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/burpsuite_pro_v2020.11.3.jar" added="2021-10-03T21:45:12.162979Z" modified="2021-10-03T21:45:12.162992Z" visited="2021-10-03T21:45:12.162981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-10-03T21:45:12.162985Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/Burp.Suite.Pro.2021.rar" added="2021-10-03T21:46:53.544319Z" modified="2021-10-03T21:58:39.319676Z" visited="2021-10-03T21:46:53.544321Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-10-03T21:46:53.544324Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-10-03T21:58:39.319674Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/tsetup.3.1.1.tar.xz" added="2021-10-03T22:11:37.336799Z" modified="2021-10-03T22:11:44.044153Z" visited="2021-10-03T22:11:37.336800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-10-03T22:11:37.336802Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-10-03T22:11:44.044152Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jlelo/Downloads/Telegram%20Desktop/burpsuite_pro_v2021.8.zip" added="2021-10-03T22:35:37.542022Z" modified="2021-10-03T22:36:17.494041Z" visited="2021-10-03T22:35:37.542023Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-10-03T22:36:17.494039Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

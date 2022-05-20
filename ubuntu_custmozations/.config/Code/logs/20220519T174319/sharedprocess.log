@@ -1,0 +1,8 @@
+[2022-05-19 17:43:21.975] [sharedprocess] [info] Starting worker process with pid 6591 (type: fileWatcher, window: 1).
+[2022-05-19 17:43:24.509] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-19 17:43:24.982] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-19 17:43:30.075] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/ubuntu/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.5.2
+[2022-05-19 17:43:36.415] [sharedprocess] [info] Extracted extension to /home/ubuntu/.vscode/extensions/.ed097bb7-8125-4d75-8e77-2393ad15d327: ms-python.vscode-pylance
+[2022-05-19 17:43:36.428] [sharedprocess] [info] Renamed to /home/ubuntu/.vscode/extensions/ms-python.vscode-pylance-2022.5.2
+[2022-05-19 17:43:36.430] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-05-19 17:43:36.433] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

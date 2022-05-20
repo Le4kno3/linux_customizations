@@ -1,0 +1,79 @@
+[Info  - 3:20:24 PM] Validating using the compiler selected: remote
+[Error - 12:35:00 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "abstract", "contract", "error", "import", "interface", "library", "pragma", "struct", comment, end of input, end of line, or whitespace but "a" found. Line: 3, Column: 1
+  Code: -32603 
+[Error - 12:35:25 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "abstract", "contract", "error", "import", "interface", "library", "pragma", "struct", comment, end of input, end of line, or whitespace but "a" found. Line: 3, Column: 1
+  Code: -32603 
+[Error - 12:35:25 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "abstract", "contract", "error", "import", "interface", "library", "pragma", "struct", comment, end of input, end of line, or whitespace but "a" found. Line: 3, Column: 1
+  Code: -32603 
+[Error - 12:35:26 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "abstract", "contract", "error", "import", "interface", "library", "pragma", "struct", comment, end of input, end of line, or whitespace but "a" found. Line: 3, Column: 1
+  Code: -32603 
+[Error - 12:35:26 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "abstract", "contract", "error", "import", "interface", "library", "pragma", "struct", comment, end of input, end of line, or whitespace but "a" found. Line: 3, Column: 1
+  Code: -32603 
+[Error - 12:35:33 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "abstract", "contract", "error", "import", "interface", "library", "pragma", "struct", comment, end of input, end of line, or whitespace but "a" found. Line: 3, Column: 1
+  Code: -32603 
+[Error - 12:39:11 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "abstract", "contract", "error", "import", "interface", "library", "pragma", "struct", comment, end of input, end of line, or whitespace but "a" found. Line: 3, Column: 1
+  Code: -32603 
+[Error - 12:39:12 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "abstract", "contract", "error", "import", "interface", "library", "pragma", "struct", comment, end of input, end of line, or whitespace but "a" found. Line: 3, Column: 1
+  Code: -32603 
+[Error - 12:39:22 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "abstract", "contract", "error", "import", "interface", "library", "pragma", "struct", comment, end of input, end of line, or whitespace but "a" found. Line: 3, Column: 1
+  Code: -32603 
+[Error - 12:39:23 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "abstract", "contract", "error", "import", "interface", "library", "pragma", "struct", comment, end of input, end of line, or whitespace but "a" found. Line: 3, Column: 1
+  Code: -32603 
+[Error - 5:28:53 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:28:53 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:29:13 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:29:20 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:29:20 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:29:21 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:29:24 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:29:42 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:29:42 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:29:48 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:29:49 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:29:49 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:30:19 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:30:46 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "as", comment, end of line, or whitespace but "c" found. Line: 51, Column: 1
+  Code: -32603 
+[Error - 5:47:24 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Cannot set properties of null (setting 'start')
+  Code: -32603 
+[Error - 1:14:53 AM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected ";", "=", comment, end of line, or whitespace but "s" found. Line: 46, Column: 14
+  Code: -32603 

@@ -1,0 +1,12 @@
+[Info  - 5:02:14 AM] (3787) Pylance language server 2022.5.1 (pyright e0e07d31) starting
+[Info  - 5:02:14 AM] (3787) Server root directory: /home/ubuntu/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist
+[Info  - 5:02:14 AM] (3787) No configuration file found.
+[Info  - 5:02:14 AM] (3787) No pyproject.toml file found.
+[Info  - 5:02:14 AM] (3787) Setting pythonPath for service "malicious-addr-alert": "/bin/python3.9"
+[Warn  - 5:02:14 AM] (3787) stubPath /home/ubuntu/Documents/Blockchain/halborn/malicious-addr-alert/typings is not a valid directory.
+[Info  - 5:02:14 AM] (3787) Assuming Python version 3.9
+[Info  - 5:02:14 AM] (3787) Assuming Python platform Linux
+[Info  - 5:02:14 AM] (3787) Searching for source files
+[Info  - 5:02:14 AM] (3787) Found 3 source files
+[Info  - 5:02:14 AM] (3787) Background analysis(1) root directory: /home/ubuntu/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist
+[Info  - 5:02:14 AM] (3787) Background analysis(1) started

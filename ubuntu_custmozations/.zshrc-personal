@@ -1,0 +1,112 @@
+#list
+alias ls='ls --color=auto'
+alias ll='ls -talhr'
+alias l.="ls -A | egrep '^\.'"
+# some more ls aliases
+# alias ll='ls -alF'
+# alias la='ls -A'
+# alias l='ls -CF'
+
+#editor
+alias vi='nvim'
+alias vim='nvim'
+
+#fix obvious typo's
+alias pdw="pwd"
+alias udpate='sudo pacman -Syyu'
+alias upqll="paru -Syu --noconfirm"
+alias upal="paru -Syu --noconfirm"
+
+## Colorize the grep command output for ease of use (good for log files)##
+alias grep='grep --color=auto -iF'
+alias egrep='egrep --color=auto -iF'
+alias fgrep='fgrep --color=auto -iF'
+
+#readable output
+alias df='df -h'
+
+
+#hardware info --short
+alias hw="hwinfo --short"
+
+#Recent Installed Packages
+alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl"
+alias riplong="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -3000 | nl"
+
+#iso and version used to install ArcoLinux
+alias iso="cat /etc/dev-rel | awk -F '=' '/ISO/ {print $2}'"
+
+#search content with ripgrep
+alias rg="rg --sort path"
+
+#get the error messages from journalctl
+alias jctl="journalctl -p 3 -xb"
+
+
+#systeminfo
+alias probe="sudo -E hw-probe -all -upload"
+alias sysfailed="systemctl list-units --failed"
+
+
+# # ex = EXtractor for all kinds of archives
+# # usage: ex <file>
+ex ()
+{
+  if [ -f $1 ] ; then
+    case $1 in
+      *.tar.bz2)   tar xjf $1   ;;
+      *.tar.gz)    tar xzf $1   ;;
+      *.bz2)       bunzip2 $1   ;;
+      *.rar)       unrar x $1   ;;
+      *.gz)        gunzip $1    ;;
+      *.tar)       tar xf $1    ;;
+      *.tbz2)      tar xjf $1   ;;
+      *.tgz)       tar xzf $1   ;;
+      *.zip)       unzip $1     ;;
+      *.Z)         uncompress $1;;
+      *.7z)        7z x $1      ;;
+      *.deb)       ar x $1      ;;
+      *.tar.xz)    tar xf $1    ;;
+      *.tar.zst)   tar xf $1    ;;
+      *)           echo "'$1' cannot be extracted via ex()" ;;
+    esac
+  else
+    echo "'$1' is not a valid file"
+  fi
+}
+
+
+
+# Ubuntu virtualbox home path
+#export MYHOME="$HOME/Documents/synackfiles" #for ubuntu virtualbox
+export LISTS="$HOME/Documents/Github/wordlists"
+export TOOLS="$HOME/Documents/Github/mytools"
+alias myhome="cd $MYHOME"
+
+
+# burpsuite home path
+#export MYHOME="$HOME/MyData/synackfiles" #for ubuntu virtualbox
+#export WORDLISTS="$HOME/MyData/synackfiles/wordlists"
+#export TOOLS="$HOME/MyData/synackfiles/tools"
+#alias myhome="cd $MYHOME"
+
+
+# SSH connect
+alias connect-oob="ssh -i '$MYHOME/files/ssh-keys/burp-collab-key.pem' ubuntu@ec2-3-111-247-246.ap-south-1.compute.amazonaws.com"
+alias connect-xsshunter="ssh -i '$MYHOME/files/ssh-keys/xss-hunter.pem' ubuntu@ec2-3-89-106-189.compute-1.amazonaws.com"
+
+###### Security Tools
+alias git-push="cd $MYHOME; ./git_push.sh"
+alias git-rebase="cd $MYHOME; ./git_rebase.sh"
+# alias amass='docker run -v OUTPUT_DIR_PATH:/.config/amass/ caffix/amass'
+# alias update-amass='docker pull caffix/amass:latest'
+# alias httprobe='docker run -i httprobe'
+
+alias burpsuite="java -javaagent:/opt/BurpSuitePro/App_Loader.jar -noverify -jar --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED -Xmx4G /opt/BurpSuitePro/App.jar"
+
+alias burpsuite_activator="java -noverify -jar --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED -Xmx4G /opt/BurpSuitePro/Loader.jar"
+alias excel='libreoffice --calc'
+alias path="readlink -f $1"
+
+#environment variables export
+export PATH=$PATH:$HOME/.local/bin

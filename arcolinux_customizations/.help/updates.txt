@@ -1,0 +1,5 @@
+1. Update oh-my-zsh
+	upgrade_oh_my_zsh
+
+2. To update all kernel builds, used when there is build mismatch, you need to reboot to make new kernel build to take effect.
+	sudo pacman -Syyu

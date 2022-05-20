@@ -1,0 +1,7 @@
+
+1. Go to the location where the link needs to be created
+	cd /usr/bin 
+	or
+	cd /bin
+
+2. ln -s /path/to/source

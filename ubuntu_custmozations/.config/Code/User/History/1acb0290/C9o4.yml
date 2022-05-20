@@ -1,0 +1,8 @@
+version: '3.7'
+
+services:
+  elasticsearch:  #these are just variables
+    - image: elasticsearch:8.1.2    #similar to "docker pull docker.elastic.co/elasticsearch/elasticsearch:8.1.2"
+      ports: 
+  kibana:
+    - 

@@ -1,0 +1,23 @@
+/home/jlelo/.config/qtile/scripts/autostart.sh: line 30: conky: command not found
+/home/jlelo/.config/qtile/scripts/autostart.sh: line 42: blueberry-tray: command not found
+/home/jlelo/.config/qtile/scripts/autostart.sh: line 45: /usr/lib/xfce4/notifyd/xfce4-notifyd: No such file or directory
+/home/jlelo/.config/qtile/scripts/autostart.sh: line 6: variety: command not found
+/home/jlelo/.config/qtile/scripts/autostart.sh: line 6: pamac-tray: command not found
+/home/jlelo/.config/qtile/scripts/autostart.sh: line 6: xfce4-power-manager: command not found
+[ 04/10/21 04:45:41.890 wid_set_text_prop ERROR ] Failed to make text property: vgit-dac85.
+[ 04/10/21 04:45:41.890 register_cm ERROR ] Failed to set COMPTON_VERSION.
+/bin/sh: line 1: checkupdates: command not found
+File does not exist: /home/jlelo/.config/autostart/arcolinux-welcome-app.desktop
+
+(nm-applet:787): libnotify-WARNING **: 04:45:42.252: Failed to connect to proxy
+
+(nm-applet:787): nm-applet-WARNING **: 04:45:42.254: Failed to show notification: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+
+** (volumeicon:790): WARNING **: 04:45:42.262: Binding 'AudioRaiseVolume' failed!
+Failed to bind AudioRaiseVolume
+
+** (volumeicon:790): WARNING **: 04:45:42.263: Binding 'AudioLowerVolume' failed!
+Failed to bind AudioLowerVolume
+
+** (volumeicon:790): WARNING **: 04:45:42.263: Binding 'AudioMute' failed!
+Failed to bind AudioMute

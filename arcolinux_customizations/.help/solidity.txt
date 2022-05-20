@@ -1,0 +1,8 @@
+
+* Mythril
+
+	1. start myth command in docker
+		sudo docker run mythril/myth
+	
+	2. Send file(contract.sol) from host machine(PWD) to mythril docker(/tmp)
+		sudo docker run -v $(pwd):/tmp mythril/myth analyze /tmp/contract.sol

@@ -1,0 +1,15 @@
+{
+    "developerAbbreviation": "DEV",
+    "protocolName": "FullName",
+    "protocolAbbrev": "ABREV",
+    "contracts": {
+        "contractName1": {
+            "name": "Bybit New launchpad project address",
+            "address": "0x28ef151f709E0Ffc7Ca0190DD8B1C9C2b86ba3A1",
+            "watch" : {
+                "type": "Info",
+                "severity": "Info"
+            }
+        }
+    }
+}

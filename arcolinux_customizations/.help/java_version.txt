@@ -1,0 +1,6 @@
+
+1. Check java versions
+	archlinux-java status
+
+2. Change java version
+	sudo archlinux-java set JAVA-X-JDK

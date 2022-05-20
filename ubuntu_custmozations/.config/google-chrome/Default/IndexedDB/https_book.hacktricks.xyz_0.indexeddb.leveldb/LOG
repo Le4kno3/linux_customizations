@@ -1,0 +1,6 @@
+2022/05/12-16:48:11.378 1996 Creating DB /home/ubuntu/.config/google-chrome/Default/IndexedDB/https_book.hacktricks.xyz_0.indexeddb.leveldb since it was missing.
+2022/05/12-16:48:11.379 1996 Reusing MANIFEST /home/ubuntu/.config/google-chrome/Default/IndexedDB/https_book.hacktricks.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/13-01:23:09.485 3a9e Level-0 table #5: started
+2022/05/13-01:23:09.486 3a9e Level-0 table #5: 1081 bytes OK
+2022/05/13-01:23:09.487 3a9e Delete type=0 #3
+2022/05/13-01:23:09.488 3a9e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

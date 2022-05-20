@@ -1,0 +1,63 @@
+[2021.10.04 03:58:08] Launched version: 3001001, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2021.10.04 03:58:08] Executable dir: /home/jlelo/opt/Telegram/, name: Telegram
+[2021.10.04 03:58:08] Initial working dir: /home/jlelo/
+[2021.10.04 03:58:08] Working dir: /home/jlelo/.local/share/TelegramDesktop/
+[2021.10.04 03:58:08] Command line: telegram
+[2021.10.04 03:58:08] Executable path before check: /home/jlelo/opt/Telegram/Telegram
+[2021.10.04 03:58:08] Logs started
+[2021.10.04 03:58:08] Launcher filename: appimagekit_f9b3a768dbf1819c4cc73a2b4e9a1834-Telegram_Desktop.desktop
+[2021.10.04 03:58:08] Connecting local socket to /run/user/1000/cc7b3dbaa3b3c98458d54e4f4a347130-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.10.04 03:58:08] Socket connect error 0, starting server and app...
+[2021.10.04 03:58:08] Moved logging from '/home/jlelo/.local/share/TelegramDesktop/log_start0.txt' to '/home/jlelo/.local/share/TelegramDesktop/log.txt'!
+[2021.10.04 03:58:08] Opened '/home/jlelo/.local/share/TelegramDesktop/tdata/working' for reading, the previous Telegram Desktop launch was not finished properly :( Crash log size: 0
+[2021.10.04 03:58:08] Primary screen DPI: 96.0738
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2021.10.04 03:58:08] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.10.04 03:58:08] Icon theme: Sardi-Arc
+[2021.10.04 03:58:08] Fallback icon theme: 
+[2021.10.04 03:58:08] App Info: reading settings...
+[2021.10.04 03:58:08] App Info: reading encrypted settings...
+[2021.10.04 03:58:08] Lang Info: Loaded cached, keys: 3417
+[2021.10.04 03:58:08] OpenAL Logging Level: (not set)
+[2021.10.04 03:58:08] Audio Playback Devices: ALSA Default;Intel 82801AA-ICH, Intel 82801AA-ICH (CARD=I82801AAICH,DEV=0)
+[2021.10.04 03:58:08] Audio Playback Default Device: ALSA Default
+[2021.10.04 03:58:08] Audio Capture Devices: ALSA Default;Intel 82801AA-ICH, Intel 82801AA-ICH (CARD=I82801AAICH,DEV=0);Intel 82801AA-ICH, Intel 82801AA-ICH - MIC ADC (CARD=I82801AAICH,DEV=1)
+[2021.10.04 03:58:08] Audio Capture Default Device: ALSA Default
+[2021.10.04 03:58:08] Not using D-Bus global menu.
+[2021.10.04 03:58:08] Not using Unity launcher counter.
+[2021.10.04 03:58:08] System tray available: [TRUE]
+[2021.10.04 03:58:08] App Info: reading accounts info...
+[2021.10.04 03:58:08] App Info: reading encrypted info...
+[2021.10.04 03:58:08] App Info: reading map...
+[2021.10.04 03:58:08] App Info: reading encrypted map...
+[2021.10.04 03:58:08] App Info: reading encrypted user settings...
+[2021.10.04 03:58:08] App Info: encrypted user settings read.
+[2021.10.04 03:58:08] App Info: reading encrypted mtp data...
+[2021.10.04 03:58:08] MTP Info: read keys, current: 4, to destroy: 0
+[2021.10.04 03:58:08] Map read time: 0
+[2021.10.04 03:58:08] App Info: reading encrypted mtp config...
+[2021.10.04 03:58:08] Export Info: Destroy top bar by controller removal.
+[2021.10.04 03:58:08] OpenGL Profile: NoProfile.
+[2021.10.04 03:58:08] OpenGL Renderer: SVGA3D; build: RELEASE;  LLVM;
+[2021.10.04 03:58:08] OpenGL Vendor: VMware, Inc.
+[2021.10.04 03:58:08] OpenGL Version: 2.1 Mesa 21.2.2
+[2021.10.04 03:58:08] OpenGL Extensions: GL_EXT_draw_range_elements, GL_EXT_texture_sRGB, GL_EXT_direct_state_access, GL_INGR_blend_func_separate, GL_ARB_fragment_program, GL_ARB_explicit_uniform_location, GL_ARB_texture_swizzle, GL_SGIS_generate_mipmap, GL_EXT_fog_coord, GL_EXT_packed_depth_stencil, GL_ARB_framebuffer_object, GL_ARB_vertex_array_bgra, GL_ARB_provoking_vertex, GL_ANGLE_texture_compression_dxt5, GL_AMD_shader_trinary_minmax, GL_EXT_texture_swizzle, GL_ANGLE_texture_compression_dxt3, GL_EXT_stencil_two_side, GL_IBM_rasterpos_clip, GL_ARB_texture_env_dot3, GL_ATI_texture_float, GL_ARB_clear_buffer_object, GL_ARB_internalformat_query2, GL_EXT_EGL_sync, GL_EXT_blend_subtract, GL_ARB_pixel_buffer_object, GL_ARB_program_interface_query, GL_ARB_draw_buffers, GL_ARB_color_buffer_float, GL_ARB_occlusion_query, GL_NV_half_float, GL_ATI_texture_env_combine3, GL_ARB_invalidate_subdata, GL_ARB_shader_objects, GL_EXT_compiled_vertex_array, GL_ARB_explicit_attrib_location, GL_ARB_shading_language_include, GL_EXT_texture_sRGB_decode, GL_ARB_depth_texture, GL_ARB_map_buffer_range, GL_EXT_multi_draw_arrays, GL_EXT_separate_specular_color, GL_ARB_texture_env_add, GL_EXT_texture_edge_clamp, GL_ARB_map_buffer_alignment, GL_EXT_point_parameters, GL_EXT_abgr, GL_IBM_texture_mirrored_repeat, GL_ARB_get_texture_sub_image, GL_ARB_sampler_objects, GL_ARB_sync, GL_ARB_multisample, GL_ARB_compressed_texture_pixel_storage, GL_NV_texgen_reflection, GL_IBM_multimode_draw_arrays, GL_EXT_blend_color, GL_OES_read_format, GL_ARB_ES2_compatibility, GL_ARB_parallel_shader_compile, GL_EXT_gpu_program_parameters, GL_ATI_fragment_shader, GL_EXT_vertex_array, GL_EXT_framebuffer_blit, GL_EXT_texture_env_combine, GL_EXT_texture_cube_map, GL_EXT_rescale_normal, GL_NV_fog_distance, GL_EXT_vertex_array_bgra, GL_ARB_occlusion_query2, GL_EXT_subtexture, GL_ARB_draw_elements_base_vertex, GL_ARB_robustness, GL_ATI_separate_stencil, GL_KHR_parallel_shader_compile, GL_SGIS_texture_edge_clamp, , GL_EXT_bgra, GL_S3_s3tc, GL_ARB_copy_buffer, GL_SGIS_texture_border_clamp, GL_ARB_multi_bind, GL_NV_light_max_exponent, GL_ARB_shading_language_100, GL_ARB_texture_env_combine, GL_EXT_texture3D, GL_KHR_debug, GL_EXT_blend_func_separate, GL_ARB_texture_env_crossbar, GL_NV_packed_depth_stencil, GL_ARB_texture_non_power_of_two, GL_EXT_blend_equation_separate, GL_NV_copy_image, GL_EXT_framebuffer_object, GL_NV_texture_rectangle, GL_ARB_texture_mirrored_repeat, GL_ARB_window_pos, GL_SGIS_texture_lod, GL_ARB_separate_shader_objects, GL_ARB_texture_filter_anisotropic, GL_ATI_draw_buffers, GL_ARB_point_sprite, GL_ATI_blend_equation_separate, GL_ARB_texture_storage, GL_ARB_texture_float, GL_ARB_shadow, GL_ARB_half_float_vertex, GL_ARB_texture_compression, GL_EXT_provoking_vertex, GL_EXT_texture_compression_s3tc, GL_ARB_vertex_array_object, GL_KHR_context_flush_control, GL_ARB_shader_texture_lod, GL_ARB_vertex_buffer_object, GL_EXT_texture_compression_dxt1, GL_EXT_texture_env_dot3, GL_EXT_pixel_buffer_object, GL_ARB_texture_border_clamp, GL_NV_primitive_restart, GL_EXT_texture_object, GL_NV_blend_square, GL_ARB_vertex_shader, GL_EXT_EGL_image_storage, GL_ARB_vertex_program, GL_OES_EGL_image, GL_ARB_internalformat_query, GL_MESA_pack_invert, GL_EXT_secondary_color, GL_KHR_no_error, GL_APPLE_packed_pixels, GL_EXT_texture_rectangle, GL_ARB_point_parameters, GL_ARB_half_float_pixel, GL_EXT_copy_texture, GL_ARB_texture_rectangle, GL_ARB_fragment_coord_conventions, GL_ARB_transpose_matrix, GL_ARB_fragment_program_shadow, GL_SUN_multi_draw_arrays, GL_ARB_multitexture, GL_ARB_vertex_attrib_binding, GL_ARB_get_program_binary, GL_ARB_texture_cube_map, GL_EXT_packed_pixels, GL_EXT_shadow_funcs, GL_EXT_texture_filter_anisotropic, GL_MESA_window_pos, GL_EXT_texture, GL_EXT_stencil_wrap, GL_EXT_texture_lod_bias, GL_NV_texture_env_combine4, GL_ARB_debug_output, GL_EXT_texture_env_add, GL_ARB_fragment_shader, GL_EXT_blend_minmax
+[2021.10.04 03:58:08] OpenGL: QOpenGLContext created, version: 2.2.
+[2021.10.04 03:58:08] OpenGL: [TRUE] (OverlayWidget)
+[2021.10.04 03:58:08] Using Qt tray icon.
+[2021.10.04 04:00:49] RPC Error: request 33 got fail with code 400, error CHAT_ADMIN_REQUIRED
+[2021.10.04 04:03:03] Message Info: bad message notification received (error_code 33) for msg_id = 7014971876346709016, seq_no = 140
+[2021.10.04 04:03:03] Message Info: bad message notification received, msgId 7014971876346709016, error_code 33
+[2021.10.04 04:03:03] Message Info: bad message notification received (error_code 33) for msg_id = 7014971877051607364, seq_no = 26
+[2021.10.04 04:03:03] Message Info: bad message notification received, msgId 7014971877051607364, error_code 33
+[2021.10.04 04:07:34] RPC Error: request 3250 got fail with code 400, error USER_NOT_PARTICIPANT

@@ -1,0 +1,40 @@
+{
+   "checksum": "c93b5c06dad0a239e01b300e32ec5cf4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13294003942635183",
+            "guid": "f217bde7-3cd8-4137-ab5a-e1754603d145",
+            "id": "5",
+            "name": "Dev Tools - Elastic",
+            "type": "url",
+            "url": "http://localhost:5601/app/dev_tools#/console"
+         } ],
+         "date_added": "13293883608811256",
+         "date_modified": "13294003942635183",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13293883608811257",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13293883608811258",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

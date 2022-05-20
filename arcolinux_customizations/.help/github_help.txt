@@ -1,0 +1,30 @@
+########################################3
+####new git
+
+git config --global user.name "anithya"
+git config --global user.email "takshil.patil529@gmail.com"
+
+####move to the folder that you want to upload to git public repo
+git init  		#create git repository
+
+####add files that you need to commit to this empty repository
+git add . 		#adds all files and folder in this directory recursively.
+
+git status 		#to verify the new files that are uploaded to git public repo
+
+git commit -m "comment to add"
+
+
+####next is to push it to the respective repo.
+git remote add repo1 https://github.com/anithya/htb.git 		#add the repo
+
+git remote 		#verify repo list
+
+####push the local changes to public repository
+git push -u repo1 master
+
+####for new repository create on github.com and then synced with local git folder
+git pull repo1 master
+git rebase repo1
+	#after executing this command you should see files from the cloud repo.
+	#if not then you may be missing "git add ." command 

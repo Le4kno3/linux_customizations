@@ -1,0 +1,1 @@
+1. Kernel errors are different `uname -a` vs `pacman -Q linux` check if the kernel versions are different.

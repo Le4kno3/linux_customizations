@@ -1,0 +1,120 @@
+[2022-04-30 14:01:19.651] [info] Checking for update
+[2022-04-30 14:01:19.668] [info] Generated new staging user ID: 286a6598-2082-595d-b025-e38defee19bf
+[2022-04-30 14:01:21.248] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v7.1.0/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v7.1.0/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 30 Apr 2022 08:31:20 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Accept-Encoding, Accept, X-Requested-With",
+  "permissions-policy": "interest-cohort=()",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "C7A6:101F:A5016B:BD9BF8:626CF3D8"
+}
+    at createHttpError (/tmp/.mount_ganachhJdzG5/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganachhJdzG5/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganachhJdzG5/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganachhJdzG5/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganachhJdzG5/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)
+[2022-04-30 15:41:35.777] [info] Checking for update
+[2022-04-30 15:41:37.663] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v7.1.0/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v7.1.0/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 30 Apr 2022 10:11:37 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Accept-Encoding, Accept, X-Requested-With",
+  "permissions-policy": "interest-cohort=()",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "EA6B:3524:A89423:C24E5B:626D0B58"
+}
+    at createHttpError (/tmp/.mount_ganachmdrOvN/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganachmdrOvN/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganachmdrOvN/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganachmdrOvN/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganachmdrOvN/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)
+[2022-04-30 21:04:42.002] [info] Checking for update
+[2022-04-30 21:04:44.035] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v7.1.0/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v7.1.0/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 30 Apr 2022 15:34:43 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Accept-Encoding, Accept, X-Requested-With",
+  "permissions-policy": "interest-cohort=()",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "x-github-request-id": "EB67:5991:56B7A7:72FD5E:626D5713"
+}
+    at createHttpError (/tmp/.mount_ganachXADh2u/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganachXADh2u/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganachXADh2u/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganachXADh2u/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganachXADh2u/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)
+[2022-05-17 06:57:50.385] [info] Checking for update
+[2022-05-17 06:57:52.667] [error] Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v7.1.0/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v7.1.0/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Tue, 17 May 2022 01:27:52 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "permissions-policy": "interest-cohort=()",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "EB3C:0F80:169DAC:1B9446:6282FA17"
+}
+    at createHttpError (/tmp/.mount_ganachbG1fap/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganachbG1fap/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganachbG1fap/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganachbG1fap/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganachbG1fap/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)

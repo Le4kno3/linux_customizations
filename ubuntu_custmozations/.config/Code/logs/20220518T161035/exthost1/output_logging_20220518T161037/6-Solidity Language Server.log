@@ -1,0 +1,4 @@
+[Info  - 4:10:49 PM] Validating using the compiler selected: remote
+[Error - 4:37:31 PM] Request textDocument/definition failed.
+  Message: Request textDocument/definition failed with message: Expected "!=", "%", "&", "&&", "(", ")", "*", "+", "++", ",", "-", "--", ".", "/", "/*", "<", "<<", "<=", "==", ">", ">=", ">>", ">>>", "?", "[", "^", "calldata", "memory", "storage", "{", "|", "||", comment, end of line, identifier, or whitespace but ";" found. Line: 140, Column: 87
+  Code: -32603 

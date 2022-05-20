@@ -1,0 +1,443 @@
+{
+	"folder_history":
+	[
+		"/home/ubuntu/Documents/Blockchain/Hardhat/project1",
+		"/home/ubuntu/Documents/Github/ethers_examples",
+		"/home/ubuntu/Documents/Blockchain/Hardhat/halborn/project_flash_loan/agents",
+		"/home/ubuntu/Documents/Github/FortaBots/my-new-bot",
+		"/home/ubuntu/Documents/Blockchain/Hardhat/hardhat-boilder-project",
+		"/home/ubuntu/Documents/Github/FortaBots/high-gas-js",
+		"/home/ubuntu/Documents/Github/FortaBots/filter-event-and-function-js",
+		"/home/ubuntu/Documents/tmp/30_Exploit_Sample/contracts",
+		"/home/ubuntu/Documents/Blockchain/Hardhat/project1/agents",
+		"/home/ubuntu/Documents/Blockchain/Hardhat/project1/my-new-bot"
+	],
+	"last_version": 4126,
+	"last_window_id": 12,
+	"log_indexing": false,
+	"next_update_check": 1652861034,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 901.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ubuntu/Documents/Blockchain/Hardhat/cheetsheet/cheetsheet_ethers.js",
+				"/home/ubuntu/Documents/work2/ctf.sol",
+				"/home/ubuntu/Desktop/test.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Delegatecall/deligatecall3.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Delegatecall/deligatecall1.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Delegatecall/deligatecall2.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Delegatecall/Deligatecall1/deligatecall1.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Unexpected Ethers/EtherGame_vulnerable.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Unexpected Ethers/EtherGame_secured.sol",
+				"/home/ubuntu/Documents/work/decrypt.go",
+				"/home/ubuntu/Documents/work/id_rsa",
+				"/home/ubuntu/Documents/Blockchain/halborn/project_flash_loan_2/agents_multi/src/index.spec.ts",
+				"/home/ubuntu/Documents/Blockchain/halborn/project_flash_loan_2/agents_multi/src/index.ts",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/halborn/project_flash_loan/agents.zip",
+				"/home/ubuntu/.forta/forta.config.json",
+				"/home/ubuntu/Documents/Github/FortaBots/Alpaca-Finance-Agents/AllocPoint-Change-Alert/src/agent.ts",
+				"/home/ubuntu/Documents/Github/RustContracts/input_output.rs",
+				"/home/ubuntu/Documents/Github/RustContracts/flow_control.rs",
+				"/home/ubuntu/Documents/Github/RustContracts/compound_data_types.rs",
+				"/home/ubuntu/Documents/Github/RustContracts/scalar_data_types.rs",
+				"/home/ubuntu/Documents/Github/RustContracts/basics.rs",
+				"/home/ubuntu/Documents/Github/RustContracts/two.rs",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/DoS/Auction.sol",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/hardhat-boilder-project/.env",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/hardhat-boilder-project/contracts/MyFirstContract.sol",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/project1/agents/src/agent.js",
+				"/home/ubuntu/Documents/synackfiles/git_push.sh",
+				"/home/ubuntu/.forta/file",
+				"/home/ubuntu/.forta/UTC--2022-05-01T19",
+				"/home/ubuntu/Documents/synackfiles/dotfiles/.zshrc-personal",
+				"/home/ubuntu/Documents/synackfiles/tools/script.sh",
+				"/home/ubuntu/Desktop/Dream11-Interview.txt",
+				"/home/ubuntu/Documents/synackfiles/targets/FOODO/active_webapps.txt",
+				"/home/ubuntu/Documents/synackfiles/install.sh",
+				"/home/ubuntu/.zshrc",
+				"/home/ubuntu/Documents/synackfiles/targets/FOODO/targets.txt",
+				"/home/ubuntu/Documents/Foodo/targets.txt"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"initialTimestamp",
+					"releaseEdge",
+					"cliffEdge",
+					"txevent.filter",
+					"txevent"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"vestTime",
+					"disbursementPeriod",
+					"cliffTime"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 216.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1672.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/ubuntu/Documents/Blockchain/Hardhat/project1",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/project1/contracts",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/project1/scripts",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/project1/tasks"
+			],
+			"file_history":
+			[
+				"/home/ubuntu/Documents/Blockchain/Hardhat/cheetsheet/cheetsheet_ethers.js",
+				"/home/ubuntu/Documents/work2/ctf.sol",
+				"/home/ubuntu/Desktop/test.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Delegatecall/deligatecall3.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Delegatecall/deligatecall1.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Delegatecall/deligatecall2.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Delegatecall/Deligatecall1/deligatecall1.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Unexpected Ethers/EtherGame_vulnerable.sol",
+				"/home/ubuntu/Documents/Blockchain/ContractAudits/Unexpected Ethers/EtherGame_secured.sol",
+				"/home/ubuntu/Documents/work/decrypt.go",
+				"/home/ubuntu/Documents/work/id_rsa",
+				"/home/ubuntu/Documents/Blockchain/halborn/project_flash_loan_2/agents_multi/src/index.spec.ts",
+				"/home/ubuntu/Documents/Blockchain/halborn/project_flash_loan_2/agents_multi/src/index.ts",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/halborn/project_flash_loan/agents.zip",
+				"/home/ubuntu/.forta/forta.config.json",
+				"/home/ubuntu/Documents/Github/FortaBots/Alpaca-Finance-Agents/AllocPoint-Change-Alert/src/agent.ts",
+				"/home/ubuntu/Documents/Github/RustContracts/input_output.rs",
+				"/home/ubuntu/Documents/Github/RustContracts/flow_control.rs",
+				"/home/ubuntu/Documents/Github/RustContracts/compound_data_types.rs",
+				"/home/ubuntu/Documents/Github/RustContracts/scalar_data_types.rs",
+				"/home/ubuntu/Documents/Github/RustContracts/basics.rs",
+				"/home/ubuntu/Documents/Github/RustContracts/two.rs",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/DoS/Auction.sol",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/hardhat-boilder-project/.env",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/hardhat-boilder-project/contracts/MyFirstContract.sol",
+				"/home/ubuntu/Documents/Blockchain/Hardhat/project1/agents/src/agent.js",
+				"/home/ubuntu/Documents/synackfiles/git_push.sh",
+				"/home/ubuntu/.forta/file",
+				"/home/ubuntu/.forta/UTC--2022-05-01T19",
+				"/home/ubuntu/Documents/synackfiles/dotfiles/.zshrc-personal",
+				"/home/ubuntu/Documents/synackfiles/tools/script.sh",
+				"/home/ubuntu/Desktop/Dream11-Interview.txt",
+				"/home/ubuntu/Documents/synackfiles/targets/FOODO/active_webapps.txt",
+				"/home/ubuntu/Documents/synackfiles/install.sh",
+				"/home/ubuntu/.zshrc",
+				"/home/ubuntu/Documents/synackfiles/targets/FOODO/targets.txt",
+				"/home/ubuntu/Documents/Foodo/targets.txt"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"initialTimestamp",
+					"releaseEdge",
+					"cliffEdge",
+					"txevent.filter",
+					"txevent"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"vestTime",
+					"disbursementPeriod",
+					"cliffTime"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/ubuntu/Documents/Blockchain/Hardhat/project1"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,574,252,2246,1153,2560,1335,0",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 216.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 9,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
